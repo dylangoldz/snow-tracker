@@ -1,0 +1,76 @@
+# Snowstorm Notification System Design Documentation
+
+## 1. Overview
+The Snowstorm Notification System is a real-time application that provides live snowfall prediction updates and sends text message notifications when noticeable changes occur. Users can subscribe to notifications by regions or specific resorts, helping them stay informed about optimal snow conditions.
+
+This system leverages an event-driven architecture using Apache Kafka, Kafka Streams, Redis, and a Confluent connector for SMS delivery.
+
+## 2. System Components
+- **Data Source:** NOAA Weather API
+- **Messaging System:** Apache Kafka for real-time data streaming
+- **Backend:** Spring Boot for data ingestion, processing, and Kafka integration
+- **Kafka Streams:** For detecting noticeable snowfall changes and routing notifications
+- **Data Store:** Redis for storing user details and resort information, using snapshots for persistence
+- **SMS Delivery:** Confluent Kafka Connect with Twilio or a similar SMS service
+
+## 3. Real-Time Data Flow
+1. **Weather Data Ingestion:**
+    - A Spring Boot service asynchronously fetches weather data from NOAA at frequent intervals.
+    - Weather data includes snowfall predictions, wind speed, temperature, and storm intensity.
+
+2. **Kafka Producers:**
+    - The Spring Boot service acts as a Kafka producer, publishing snowfall prediction updates to a Kafka topic.
+
+3. **Kafka Streams Processing:**
+    - Kafka Streams processes snowfall updates in real time, comparing each update with the previous prediction using its local state store.
+    - Only significant snowfall changes (above a defined threshold) are forwarded to notification topics.
+    - Kafka Streams branches notifications into region- and resort-specific topics based on user subscriptions.
+
+4. **Redis for Metadata Storage:**
+    - Redis stores user subscription details, resort information, and location metadata.
+    - Snapshots are used to persist data, ensuring that user and resort information is retained across service restarts.
+
+5. **Confluent SMS Connector:**
+    - The Confluent Kafka Connect sink connector consumes messages from region and resort notification topics.
+    - Text messages are sent via Twilio or a similar service to subscribers.
+
+## 4. System Architecture
+```
+    NOAA Weather API → Kafka Producer → Kafka Streams Processor → Redis → Region/Resort Topics → Confluent SMS Connector → Text Notifications
+```
+
+## 5. Kafka Topic Structure
+- **weather.snowfall.updates:** Receives all snowfall prediction changes.
+- **notifications.significant.changes:** Stores snowfall updates that exceed the defined change threshold.
+- **notifications.region.<region_id>:** Region-specific topics for subscribers.
+- **notifications.resort.<resort_id>:** Resort-specific topics for subscribers.
+
+## 6. Kafka Streams Topology
+1. **Stateful Comparison:**
+    - Stores the last known snowfall prediction for each location in a local state store.
+    - Compares each new update with the previous value to detect significant changes.
+
+2. **Filtering and Routing:**
+    - Only forwards messages where the snowfall change exceeds the defined threshold.
+    - Routes events to region and resort topics based on metadata from Redis.
+
+## 7. Persistent Metadata
+Location metadata, user subscription details, and resort information are stored in Redis for quick lookups and scalability.
+- Redis is used as an in-memory key-value store with snapshotting enabled to ensure data persistence.
+- Resort information includes coordinates, region mappings, and resort IDs.
+- User details include contact information, subscription preferences, and notification thresholds.
+
+## 8. Performance and Scalability
+- **Low Latency:** Kafka and Kafka Streams ensure near-instantaneous event processing.
+- **Horizontal Scaling:** Kafka and Redis support seamless scaling as the number of locations and subscribers grows.
+- **Reduced Notification Noise:** Kafka Streams' filtering ensures users only receive notifications for noticeable snowfall changes.
+
+## 9. Future Considerations
+- Allow users to customize their notification thresholds.
+- Add push notifications and email alerts as additional channels.
+- Enhance snowfall prediction accuracy using machine learning.
+- Implement Redis clustering for high availability and scalability.
+
+## 10. Conclusion
+By leveraging Kafka Streams, Redis, and a Confluent SMS connector, the Snowstorm Notification System ensures real-time delivery of snowfall prediction changes without excessive notifications. Subscriptions by region and resort allow users to receive relevant, actionable updates, enhancing their winter sports experience.
+
