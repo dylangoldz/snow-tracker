@@ -1,0 +1,1309 @@
+Slug: 49-degrees-north
+Name: 49 Degrees North
+Country: US
+Region: WA
+Location: {'latitude': 48.302353, 'longitude': -117.564011}
+URL: https://api.skiapi.com/v1/resort/49-degrees-north
+
+Slug: alpe-lusia-san-pellegrino
+Name: Alpe Lusia / San Pellegrino
+Country: IT
+Region: N/A
+Location: {'latitude': 11.783461150198145, 'longitude': 46.38449189952611}
+URL: https://api.skiapi.com/v1/resort/alpe-lusia-san-pellegrino
+
+Slug: alpine-meadows
+Name: Alpine Meadows
+Country: US
+Region: CA
+Location: {'latitude': 39.148201, 'longitude': -120.150902}
+URL: https://api.skiapi.com/v1/resort/alpine-meadows
+
+Slug: alta
+Name: Alta
+Country: US
+Region: UT
+Location: {'latitude': 40.583828, 'longitude': -111.63726}
+URL: https://api.skiapi.com/v1/resort/alta
+
+Slug: alyeska
+Name: Alyeska
+Country: US
+Region: AK
+Location: {'latitude': 60.961445, 'longitude': -149.102676}
+URL: https://api.skiapi.com/v1/resort/alyeska
+
+Slug: angel-fire
+Name: Angel Fire
+Country: US
+Region: NM
+Location: {'latitude': 36.387402, 'longitude': -105.273903}
+URL: https://api.skiapi.com/v1/resort/angel-fire
+
+Slug: arabba
+Name: Arabba / Marmolada
+Country: IT
+Region: N/A
+Location: {'latitude': 46.497223882531316, 'longitude': 11.872010240054017}
+URL: https://api.skiapi.com/v1/resort/arabba
+
+Slug: arapahoe-basin
+Name: Arapaho Basin
+Country: US
+Region: CO
+Location: {'latitude': 39.642464, 'longitude': -105.871872}
+URL: https://api.skiapi.com/v1/resort/arapahoe-basin
+
+Slug: aspen-highlands
+Name: Aspen Highlands
+Country: US
+Region: CO
+Location: {'latitude': 39.182522, 'longitude': -106.855904}
+URL: https://api.skiapi.com/v1/resort/aspen-highlands
+
+Slug: aspen-mountain
+Name: Aspen Mountain
+Country: US
+Region: CO
+Location: {'latitude': 39.186714, 'longitude': -106.819275}
+URL: https://api.skiapi.com/v1/resort/aspen-mountain
+
+Slug: attitash
+Name: Attitash
+Country: US
+Region: NH
+Location: {'latitude': 44.077778, 'longitude': -71.282776}
+URL: https://api.skiapi.com/v1/resort/attitash
+
+Slug: beavercreek
+Name: Beaver Creek
+Country: US
+Region: CO
+Location: {'latitude': 39.600464, 'longitude': -106.517899}
+URL: https://api.skiapi.com/v1/resort/beavercreek
+
+Slug: big-bear
+Name: Big Bear
+Country: US
+Region: MT
+Location: {'latitude': 35.37017, 'longitude': -83.15934}
+URL: https://api.skiapi.com/v1/resort/big-bear
+
+Slug: big-sky
+Name: Big Sky
+Country: US
+Region: MT
+Location: {'latitude': 45.283333, 'longitude': -111.401389}
+URL: https://api.skiapi.com/v1/resort/big-sky
+
+Slug: big-white
+Name: Big White
+Country: CA
+Region: BC
+Location: {'latitude': 49.888, 'longitude': -119.495399}
+URL: https://api.skiapi.com/v1/resort/big-white
+
+Slug: bluemountain
+Name: Blue Mountain
+Country: CA
+Region: ON
+Location: {'latitude': 44.50758, 'longitude': -80.316116}
+URL: https://api.skiapi.com/v1/resort/bluemountain
+
+Slug: bogusbasin
+Name: Bogus Basin
+Country: US
+Region: ID
+Location: {'latitude': 43.764, 'longitude': -116.104}
+URL: https://api.skiapi.com/v1/resort/bogusbasin
+
+Slug: bolton-valley
+Name: Bolton Valley
+Country: US
+Region: VT
+Location: {'latitude': 44.421673, 'longitude': -72.84948}
+URL: https://api.skiapi.com/v1/resort/bolton-valley
+
+Slug: boreal
+Name: Boreal
+Country: US
+Region: CA
+Location: {'latitude': 39.316502, 'longitude': -120.270203}
+URL: https://api.skiapi.com/v1/resort/boreal
+
+Slug: breck
+Name: Breckenridge
+Country: US
+Region: CO
+Location: {'latitude': 39.480724, 'longitude': -106.066238}
+URL: https://api.skiapi.com/v1/resort/breck
+
+Slug: brettonwoods
+Name: Bretton Woods
+Country: US
+Region: NH
+Location: {'latitude': 44.077122, 'longitude': -71.340408}
+URL: https://api.skiapi.com/v1/resort/brettonwoods
+
+Slug: brianhead
+Name: Brian Head
+Country: US
+Region: UT
+Location: {'latitude': 37.692753, 'longitude': -112.848129}
+URL: https://api.skiapi.com/v1/resort/brianhead
+
+Slug: bridger-bowl
+Name: Bridger Bowl
+Country: US
+Region: MT
+Location: {'latitude': 45.817974, 'longitude': -110.89814}
+URL: https://api.skiapi.com/v1/resort/bridger-bowl
+
+Slug: brighton
+Name: Brighton
+Country: US
+Region: UT
+Location: {'latitude': 40.620697, 'longitude': -111.592041}
+URL: https://api.skiapi.com/v1/resort/brighton
+
+Slug: bromley-mountain
+Name: Bromley Mountain
+Country: US
+Region: VT
+Location: {'latitude': 43.213402, 'longitude': -72.935013}
+URL: https://api.skiapi.com/v1/resort/bromley-mountain
+
+Slug: burke-mountain
+Name: Burke Mountain
+Country: US
+Region: VT
+Location: {'latitude': 44.587898, 'longitude': -71.91745}
+URL: https://api.skiapi.com/v1/resort/burke-mountain
+
+Slug: buttermilk
+Name: Buttermilk
+Country: US
+Region: CO
+Location: {'latitude': 39.206944, 'longitude': -106.860474}
+URL: https://api.skiapi.com/v1/resort/buttermilk
+
+Slug: caberfae-peaks
+Name: Caberfae Peaks
+Country: US
+Region: MI
+Location: {'latitude': 44.245014, 'longitude': -85.719765}
+URL: https://api.skiapi.com/v1/resort/caberfae-peaks
+
+Slug: camelback
+Name: Camelback Mountain
+Country: US
+Region: PA
+Location: {'latitude': 41.051389, 'longitude': -75.355}
+URL: https://api.skiapi.com/v1/resort/camelback
+
+Slug: campo-felice
+Name: Campo Felice
+Country: IL
+Region: N/A
+Location: {'latitude': 42.21372813629604, 'longitude': 13.460177207717742}
+URL: https://api.skiapi.com/v1/resort/campo-felice
+
+Slug: canada-olympic-park
+Name: Canada Olympic Park
+Country: CA
+Region: AB
+Location: {'latitude': 51.079722, 'longitude': -114.215833}
+URL: https://api.skiapi.com/v1/resort/canada-olympic-park
+
+Slug: cannon
+Name: Cannon
+Country: US
+Region: NH
+Location: {'latitude': 44.156452, 'longitude': -71.698418}
+URL: https://api.skiapi.com/v1/resort/cannon
+
+Slug: cataloochee
+Name: Cataloochee
+Country: US
+Region: NC
+Location: {'latitude': 35.562656, 'longitude': -83.090027}
+URL: https://api.skiapi.com/v1/resort/cataloochee
+
+Slug: catedral
+Name: Catedral Alta Patagonia
+Country: IL
+Region: N/A
+Location: {'latitude': -71.44978545296134, 'longitude': -41.182686147965306}
+URL: https://api.skiapi.com/v1/resort/catedral
+
+Slug: cervino
+Name: Cervino Ski Paradise
+Country: IT
+Region: N/A
+Location: {'latitude': 45.93426991893467, 'longitude': 7.632435690816057}
+URL: https://api.skiapi.com/v1/resort/cervino
+
+Slug: chamonix
+Name: Chamonix
+Country: FR
+Region: N/A
+Location: {'latitude': 45.92652, 'longitude': 6.86787}
+URL: https://api.skiapi.com/v1/resort/chamonix
+
+Slug: chinapeak
+Name: China Peak
+Country: US
+Region: CA
+Location: {'latitude': 37.228348, 'longitude': -119.161705}
+URL: https://api.skiapi.com/v1/resort/chinapeak
+
+Slug: civetta
+Name: Civetta
+Country: IT
+Region: N/A
+Location: {'latitude': 46.40658836629695, 'longitude': 12.023842219994087}
+URL: https://api.skiapi.com/v1/resort/civetta
+
+Slug: claviere
+Name: Cesana Claviere
+Country: IT
+Region: TO
+Location: {'latitude': 44.933333, 'longitude': 6.75}
+URL: https://api.skiapi.com/v1/resort/claviere
+
+Slug: copper
+Name: Copper Mountain
+Country: US
+Region: CO
+Location: {'latitude': 39.501125, 'longitude': -106.155998}
+URL: https://api.skiapi.com/v1/resort/copper
+
+Slug: coronetpeak
+Name: Coronet Peak
+Country: NZ
+Region: OTA
+Location: {'latitude': -44.926898, 'longitude': 168.736053}
+URL: https://api.skiapi.com/v1/resort/coronetpeak
+
+Slug: cortina-d-ampezzo
+Name: Cortina d'Ampezzo
+Country: IT
+Region: N/A
+Location: {'latitude': 46.54056, 'longitude': 12.13562}
+URL: https://api.skiapi.com/v1/resort/cortina-d-ampezzo
+
+Slug: courchevel
+Name: Courchevel - 3 Vallees
+Country: FR
+Region: ARA
+Location: {'latitude': 45.415, 'longitude': 6.6339}
+URL: https://api.skiapi.com/v1/resort/courchevel
+
+Slug: cranmore-mountain
+Name: Cranmore
+Country: US
+Region: NH
+Location: {'latitude': 44.055382, 'longitude': -71.116783}
+URL: https://api.skiapi.com/v1/resort/cranmore-mountain
+
+Slug: cransmontana
+Name: Crans-Montana
+Country: CH
+Region: VS
+Location: {'latitude': 46.3087, 'longitude': 7.4674}
+URL: https://api.skiapi.com/v1/resort/cransmontana
+
+Slug: crested-butte
+Name: Crested Butte
+Country: US
+Region: CO
+Location: {'latitude': 38.899502, 'longitude': -106.964821}
+URL: https://api.skiapi.com/v1/resort/crested-butte
+
+Slug: crystal-mountain
+Name: Crystal Mountain
+Country: US
+Region: WA
+Location: {'latitude': 46.9459, 'longitude': -121.5802}
+URL: https://api.skiapi.com/v1/resort/crystal-mountain
+
+Slug: cypress-mountain
+Name: Cypress Mountain
+Country: CA
+Region: BC
+Location: {'latitude': 49.37141, 'longitude': -123.19557}
+URL: https://api.skiapi.com/v1/resort/cypress-mountain
+
+Slug: deer-valley
+Name: Deer Valley
+Country: US
+Region: UT
+Location: {'latitude': 40.620499, 'longitude': -111.489555}
+URL: https://api.skiapi.com/v1/resort/deer-valley
+
+Slug: devils-head
+Name: Devil's Head
+Country: US
+Region: WI
+Location: {'latitude': 43.4016, 'longitude': -89.636703}
+URL: https://api.skiapi.com/v1/resort/devils-head
+
+Slug: diamondpeak
+Name: Diamond Peak
+Country: US
+Region: NV
+Location: {'latitude': 39.249599, 'longitude': -119.930199}
+URL: https://api.skiapi.com/v1/resort/diamondpeak
+
+Slug: falls-creek
+Name: Falls Creek
+Country: AU
+Region: VIC
+Location: {'latitude': -36.8659, 'longitude': 147.287}
+URL: https://api.skiapi.com/v1/resort/falls-creek
+
+Slug: flims-laax-falera
+Name: Flims Laax Falera
+Country: CH
+Region: N/A
+Location: {'latitude': 46.833333, 'longitude': 9.283333}
+URL: https://api.skiapi.com/v1/resort/flims-laax-falera
+
+Slug: folgaria
+Name: Folgaria
+Country: IL
+Region: N/A
+Location: {'latitude': 45.881187, 'longitude': 11.198438}
+URL: https://api.skiapi.com/v1/resort/folgaria
+
+Slug: folgarida-marilleva
+Name: Folgarida Marilleva
+Country: IT
+Region: TN
+Location: {'latitude': 46.284751, 'longitude': 10.828321}
+URL: https://api.skiapi.com/v1/resort/folgarida-marilleva
+
+Slug: forni
+Name: Forni di Sopra
+Country: IL
+Region: N/A
+Location: {'latitude': 46.42171, 'longitude': 12.58232}
+URL: https://api.skiapi.com/v1/resort/forni
+
+Slug: gore-mountain
+Name: Gore Mountain
+Country: US
+Region: NY
+Location: {'latitude': 43.672653, 'longitude': -74.007172}
+URL: https://api.skiapi.com/v1/resort/gore-mountain
+
+Slug: grand-targhee
+Name: Grand Targhee
+Country: US
+Region: WY
+Location: {'latitude': 43.742401, 'longitude': -111.065201}
+URL: https://api.skiapi.com/v1/resort/grand-targhee
+
+Slug: grouse
+Name: Grouse Mountain
+Country: CA
+Region: BC
+Location: {'latitude': 49.379292, 'longitude': -123.083099}
+URL: https://api.skiapi.com/v1/resort/grouse
+
+Slug: gunstock
+Name: Gunstock
+Country: US
+Region: NH
+Location: {'latitude': 43.551796, 'longitude': -71.360092}
+URL: https://api.skiapi.com/v1/resort/gunstock
+
+Slug: heavenly
+Name: Heavenly
+Country: US
+Region: CA
+Location: {'latitude': 38.936611, 'longitude': -119.939629}
+URL: https://api.skiapi.com/v1/resort/heavenly
+
+Slug: hochfuegen
+Name: Hochfügen
+Country: AT
+Region: 7
+Location: {'latitude': 47.26889038, 'longitude': 11.77694416}
+URL: https://api.skiapi.com/v1/resort/hochfuegen
+
+Slug: homewood
+Name: Homewood
+Country: US
+Region: CA
+Location: {'latitude': 39.063099, 'longitude': -120.219498}
+URL: https://api.skiapi.com/v1/resort/homewood
+
+Slug: hoodoo
+Name: Hoodoo
+Country: US
+Region: OR
+Location: {'latitude': 44.408646, 'longitude': -121.871513}
+URL: https://api.skiapi.com/v1/resort/hoodoo
+
+Slug: hunter
+Name: Hunter Mountain
+Country: US
+Region: NY
+Location: {'latitude': 42.205029, 'longitude': -74.20874}
+URL: https://api.skiapi.com/v1/resort/hunter
+
+Slug: ischgl-silvretta-arena
+Name: Ischgl - Silvretta
+Country: AT
+Region: 7
+Location: {'latitude': 47.010101, 'longitude': 10.2887}
+URL: https://api.skiapi.com/v1/resort/ischgl-silvretta-arena
+
+Slug: jackson-hole
+Name: Jackson Hole
+Country: US
+Region: WY
+Location: {'latitude': 43.588318, 'longitude': -110.827438}
+URL: https://api.skiapi.com/v1/resort/jackson-hole
+
+Slug: jay-peak
+Name: Jay Peak
+Country: US
+Region: VT
+Location: {'latitude': 44.928837, 'longitude': -72.501701}
+URL: https://api.skiapi.com/v1/resort/jay-peak
+
+Slug: jiminypeak
+Name: Jiminy Peak
+Country: US
+Region: MA
+Location: {'latitude': 42.556477, 'longitude': -73.291328}
+URL: https://api.skiapi.com/v1/resort/jiminypeak
+
+Slug: june-mountain
+Name: June Mountain
+Country: US
+Region: CA
+Location: {'latitude': 37.767796, 'longitude': -119.090721}
+URL: https://api.skiapi.com/v1/resort/june-mountain
+
+Slug: keystone
+Name: Keystone
+Country: US
+Region: CO
+Location: {'latitude': 39.605011, 'longitude': -105.953438}
+URL: https://api.skiapi.com/v1/resort/keystone
+
+Slug: killington
+Name: Killington
+Country: US
+Region: VT
+Location: {'latitude': 43.619675, 'longitude': -72.802879}
+URL: https://api.skiapi.com/v1/resort/killington
+
+Slug: king-pine
+Name: King Pine
+Country: US
+Region: NH
+Location: {'latitude': 43.86063, 'longitude': -71.088127}
+URL: https://api.skiapi.com/v1/resort/king-pine
+
+Slug: kirkwood
+Name: Kirkwood
+Country: US
+Region: CA
+Location: {'latitude': 38.683231, 'longitude': -120.066856}
+URL: https://api.skiapi.com/v1/resort/kirkwood
+
+Slug: kitzbuehel
+Name: Kitzbühel
+Country: AT
+Region: 7
+Location: {'latitude': 47.446602, 'longitude': 12.3908}
+URL: https://api.skiapi.com/v1/resort/kitzbuehel
+
+Slug: lamolina
+Name: La Molina
+Country: ES
+Region: N/A
+Location: {'latitude': 42.3358, 'longitude': 1.94163}
+URL: https://api.skiapi.com/v1/resort/lamolina
+
+Slug: laplagne
+Name: La Plagne
+Country: FR
+Region: V
+Location: {'latitude': 45.5064, 'longitude': 6.6772}
+URL: https://api.skiapi.com/v1/resort/laplagne
+
+Slug: larosiere
+Name: La Rosière
+Country: FR
+Region: ARA
+Location: {'latitude': 45.6272, 'longitude': 6.8492}
+URL: https://api.skiapi.com/v1/resort/larosiere
+
+Slug: lavarone
+Name: Lavarone
+Country: IT
+Region: N/A
+Location: {'latitude': 45.933333, 'longitude': 11.266667}
+URL: https://api.skiapi.com/v1/resort/lavarone
+
+Slug: lesarcs
+Name: Les Arcs
+Country: FR
+Region: ARA
+Location: {'latitude': 45.5722, 'longitude': 6.8288}
+URL: https://api.skiapi.com/v1/resort/lesarcs
+
+Slug: lesmenuires
+Name: Les Menuires
+Country: FR
+Region: ARA
+Location: {'latitude': 45.3236, 'longitude': 6.5375}
+URL: https://api.skiapi.com/v1/resort/lesmenuires
+
+Slug: loon
+Name: Loon Mountain
+Country: US
+Region: NH
+Location: {'latitude': 44.056583, 'longitude': -71.625809}
+URL: https://api.skiapi.com/v1/resort/loon
+
+Slug: loveland
+Name: Loveland
+Country: US
+Region: CO
+Location: {'latitude': 39.679993, 'longitude': -105.89595}
+URL: https://api.skiapi.com/v1/resort/loveland
+
+Slug: mad-river-glen
+Name: Mad River Glen
+Country: US
+Region: VT
+Location: {'latitude': 44.201653, 'longitude': -72.919006}
+URL: https://api.skiapi.com/v1/resort/mad-river-glen
+
+Slug: madonna-di-campiglio
+Name: Madonna di Campiglio
+Country: IT
+Region: 32
+Location: {'latitude': 46.231944, 'longitude': 10.826111}
+URL: https://api.skiapi.com/v1/resort/madonna-di-campiglio
+
+Slug: mammoth-lakes
+Name: Mammoth Mountain
+Country: US
+Region: CA
+Location: {'latitude': 37.651772, 'longitude': -119.037346}
+URL: https://api.skiapi.com/v1/resort/mammoth-lakes
+
+Slug: manning-park
+Name: Manning Park
+Country: CA
+Region: BC
+Location: {'latitude': 49.06906966124412, 'longitude': -120.91434120055804}
+URL: https://api.skiapi.com/v1/resort/manning-park
+
+Slug: megeve
+Name: Megève
+Country: FR
+Region: ARA
+Location: {'latitude': 45.8578, 'longitude': 6.6181}
+URL: https://api.skiapi.com/v1/resort/megeve
+
+Slug: meribel
+Name: Meribel
+Country: FR
+Region: ARA
+Location: {'latitude': 45.3967, 'longitude': 6.5655}
+URL: https://api.skiapi.com/v1/resort/meribel
+
+Slug: monarch
+Name: Monarch Mountain
+Country: US
+Region: CO
+Location: {'latitude': 38.512714, 'longitude': -106.331696}
+URL: https://api.skiapi.com/v1/resort/monarch
+
+Slug: monte-amiata
+Name: Monte Amiata
+Country: IL
+Region: N/A
+Location: {'latitude': 42.89159, 'longitude': 11.62626}
+URL: https://api.skiapi.com/v1/resort/monte-amiata
+
+Slug: monte-bondone
+Name: Monte Bondone
+Country: IL
+Region: N/A
+Location: {'latitude': 46.026944, 'longitude': 11.058611}
+URL: https://api.skiapi.com/v1/resort/monte-bondone
+
+Slug: montegenevre
+Name: Montgenevre
+Country: FR
+Region: PAC
+Location: {'latitude': 44.9316, 'longitude': 6.7219}
+URL: https://api.skiapi.com/v1/resort/montegenevre
+
+Slug: monterosa
+Name: Monterosa
+Country: IT
+Region: N/A
+Location: {'latitude': 45.833333, 'longitude': 7.833333}
+URL: https://api.skiapi.com/v1/resort/monterosa
+
+Slug: morzine
+Name: Morzine
+Country: FR
+Region: ARA
+Location: {'latitude': 46.1789, 'longitude': 6.7089}
+URL: https://api.skiapi.com/v1/resort/morzine
+
+Slug: mount-sunapee
+Name: Mount Sunapee
+Country: US
+Region: NH
+Location: {'latitude': 43.341194, 'longitude': -72.075394}
+URL: https://api.skiapi.com/v1/resort/mount-sunapee
+
+Slug: mountsnow
+Name: Mount Snow
+Country: US
+Region: VT
+Location: {'latitude': 42.968166, 'longitude': -72.8936}
+URL: https://api.skiapi.com/v1/resort/mountsnow
+
+Slug: mt-buller
+Name: Mount Buller
+Country: AU
+Region: VIC
+Location: {'latitude': -37.1462, 'longitude': 146.44982}
+URL: https://api.skiapi.com/v1/resort/mt-buller
+
+Slug: mt-hotham
+Name: Mount Hotham
+Country: AU
+Region: VIC
+Location: {'latitude': -36.9752, 'longitude': 147.1328}
+URL: https://api.skiapi.com/v1/resort/mt-hotham
+
+Slug: mt-seymour
+Name: Mount Seymour
+Country: CA
+Region: BC
+Location: {'latitude': 49.36557060120715, 'longitude': -122.94820807713377}
+URL: https://api.skiapi.com/v1/resort/mt-seymour
+
+Slug: mt-spokane
+Name: Mt Spokane
+Country: US
+Region: WA
+Location: {'latitude': 47.921261, 'longitude': -117.096107}
+URL: https://api.skiapi.com/v1/resort/mt-spokane
+
+Slug: mtbachelor
+Name: Mount Bachelor
+Country: US
+Region: OR
+Location: {'latitude': 44.003559, 'longitude': -121.67865}
+URL: https://api.skiapi.com/v1/resort/mtbachelor
+
+Slug: mtbrighton
+Name: Mt Brighton
+Country: US
+Region: MI
+Location: {'latitude': 42.540783, 'longitude': -83.811553}
+URL: https://api.skiapi.com/v1/resort/mtbrighton
+
+Slug: mthigh
+Name: Mountain High
+Country: US
+Region: CA
+Location: {'latitude': 34.376888, 'longitude': -117.691544}
+URL: https://api.skiapi.com/v1/resort/mthigh
+
+Slug: mthood
+Name: Mount Hood
+Country: US
+Region: OR
+Location: {'latitude': 45.331936, 'longitude': -121.665688}
+URL: https://api.skiapi.com/v1/resort/mthood
+
+Slug: mtrose
+Name: Mount Rose
+Country: US
+Region: NV
+Location: {'latitude': 39.3283, 'longitude': -119.878601}
+URL: https://api.skiapi.com/v1/resort/mtrose
+
+Slug: niseko
+Name: Niseko
+Country: JP
+Region: 01
+Location: {'latitude': 42.8, 'longitude': 140.683333}
+URL: https://api.skiapi.com/v1/resort/niseko
+
+Slug: northstar
+Name: Northstar
+Country: US
+Region: CA
+Location: {'latitude': 39.275173, 'longitude': -120.122086}
+URL: https://api.skiapi.com/v1/resort/northstar
+
+Slug: okemo
+Name: Okemo
+Country: US
+Region: VT
+Location: {'latitude': 43.401806, 'longitude': -72.716705}
+URL: https://api.skiapi.com/v1/resort/okemo
+
+Slug: ovindoli
+Name: Ovindoli Monte Magnola
+Country: IT
+Region: N/A
+Location: {'latitude': 42.14547624333149, 'longitude': 13.496445170136338}
+URL: https://api.skiapi.com/v1/resort/ovindoli
+
+Slug: owlshead
+Name: Owl's Head
+Country: CA
+Region: QC
+Location: {'latitude': 45.074642, 'longitude': -72.297806}
+URL: https://api.skiapi.com/v1/resort/owlshead
+
+Slug: paganella
+Name: Paganella
+Country: IT
+Region: N/A
+Location: {'latitude': 11.066667, 'longitude': 46.166667}
+URL: https://api.skiapi.com/v1/resort/paganella
+
+Slug: palisades
+Name: Palisades Tahoe
+Country: US
+Region: CA
+Location: {'latitude': 39.196045, 'longitude': -120.233299}
+URL: https://api.skiapi.com/v1/resort/palisades
+
+Slug: parkcity
+Name: Park City
+Country: US
+Region: UT
+Location: {'latitude': 40.651375, 'longitude': -111.508118}
+URL: https://api.skiapi.com/v1/resort/parkcity
+
+Slug: pats-peak
+Name: Pats Peak
+Country: US
+Region: NH
+Location: {'latitude': 43.180679, 'longitude': -71.833412}
+URL: https://api.skiapi.com/v1/resort/pats-peak
+
+Slug: peio
+Name: Pejo
+Country: IT
+Region: N/A
+Location: {'latitude': 46.366667, 'longitude': 10.666667}
+URL: https://api.skiapi.com/v1/resort/peio
+
+Slug: perisher
+Name: Perisher
+Country: AU
+Region: NSW
+Location: {'latitude': -36.4, 'longitude': 148.41}
+URL: https://api.skiapi.com/v1/resort/perisher
+
+Slug: piancavallo
+Name: Piancavallo
+Country: IT
+Region: N/A
+Location: {'latitude': 46.10733, 'longitude': 12.51721}
+URL: https://api.skiapi.com/v1/resort/piancavallo
+
+Slug: pico
+Name: Pico Mountain
+Country: US
+Region: VT
+Location: {'latitude': 43.663277, 'longitude': -72.842613}
+URL: https://api.skiapi.com/v1/resort/pico
+
+Slug: pinzolo
+Name: Pinzolo
+Country: IT
+Region: 32
+Location: {'latitude': 46.166667, 'longitude': 10.75}
+URL: https://api.skiapi.com/v1/resort/pinzolo
+
+Slug: plan-de-corones
+Name: Plan de Corones
+Country: IT
+Region: N/A
+Location: {'latitude': 46.73884, 'longitude': 11.95783}
+URL: https://api.skiapi.com/v1/resort/plan-de-corones
+
+Slug: pleasant-mountain
+Name: Pleasant Mountain
+Country: US
+Region: ME
+Location: {'latitude': 44.053791, 'longitude': -70.817528}
+URL: https://api.skiapi.com/v1/resort/pleasant-mountain
+
+Slug: pontedilegno-tonale
+Name: Ponte di Legno - Tonale
+Country: IT
+Region: BS
+Location: {'latitude': 46.258056, 'longitude': 10.580833}
+URL: https://api.skiapi.com/v1/resort/pontedilegno-tonale
+
+Slug: ragged-mountain
+Name: Ragged Mountain
+Country: US
+Region: NH
+Location: {'latitude': 43.486305, 'longitude': -71.842003}
+URL: https://api.skiapi.com/v1/resort/ragged-mountain
+
+Slug: ravascletto-zoncolan
+Name: Ravascletto/Zoncolan
+Country: IT
+Region: N/A
+Location: {'latitude': 46.52506, 'longitude': 12.92393}
+URL: https://api.skiapi.com/v1/resort/ravascletto-zoncolan
+
+Slug: red-lodge-mountain
+Name: Red Lodge Mountain
+Country: US
+Region: MT
+Location: {'latitude': 45.191021, 'longitude': -109.335037}
+URL: https://api.skiapi.com/v1/resort/red-lodge-mountain
+
+Slug: red-mountain
+Name: Red Mountain
+Country: CA
+Region: BC
+Location: {'latitude': 49.105343, 'longitude': -117.819099}
+URL: https://api.skiapi.com/v1/resort/red-mountain
+
+Slug: rio-pusteria-bressanone
+Name: Rio Pusteria - Bressanone
+Country: IT
+Region: N/A
+Location: {'latitude': 46.69822328224162, 'longitude': 11.682696694362933}
+URL: https://api.skiapi.com/v1/resort/rio-pusteria-bressanone
+
+Slug: roccaraso
+Name: Roccaraso - Rivisondoli
+Country: IT
+Region: N/A
+Location: {'latitude': 41.85103115486714, 'longitude': 14.08396047685749}
+URL: https://api.skiapi.com/v1/resort/roccaraso
+
+Slug: saddleback
+Name: Saddleback
+Country: US
+Region: ME
+Location: {'latitude': 44.983387, 'longitude': -70.632965}
+URL: https://api.skiapi.com/v1/resort/saddleback
+
+Slug: san-martino-di-castrozza-passo-rolle
+Name: San Martino di Castrozza / Passo Rolle
+Country: IT
+Region: N/A
+Location: {'latitude': 46.26409767242098, 'longitude': 11.804839312144885}
+URL: https://api.skiapi.com/v1/resort/san-martino-di-castrozza-passo-rolle
+
+Slug: sansicario
+Name: Cesana San Sicario
+Country: IT
+Region: 21
+Location: {'latitude': 44.95812, 'longitude': 6.8062}
+URL: https://api.skiapi.com/v1/resort/sansicario
+
+Slug: sappada
+Name: Sappada/Forni Avoltri
+Country: IT
+Region: N/A
+Location: {'latitude': 46.56691, 'longitude': 12.68458}
+URL: https://api.skiapi.com/v1/resort/sappada
+
+Slug: sasquatch-mountain
+Name: Sasquatch Mountain
+Country: CA
+Region: BC
+Location: {'latitude': 49.38000608027801, 'longitude': -121.93556496672508}
+URL: https://api.skiapi.com/v1/resort/sasquatch-mountain
+
+Slug: sauris
+Name: Sauris
+Country: IT
+Region: N/A
+Location: {'latitude': 46.46634, 'longitude': 12.70914}
+URL: https://api.skiapi.com/v1/resort/sauris
+
+Slug: sauze
+Name: Sauze d'Oulx
+Country: IT
+Region: 21
+Location: {'latitude': 45.016667, 'longitude': 6.85}
+URL: https://api.skiapi.com/v1/resort/sauze
+
+Slug: schweitzer
+Name: Schweitzer
+Country: US
+Region: ID
+Location: {'latitude': 48.538433, 'longitude': -116.643562}
+URL: https://api.skiapi.com/v1/resort/schweitzer
+
+Slug: sella
+Name: Sella Nevea
+Country: IT
+Region: N/A
+Location: {'latitude': 46.38774, 'longitude': 13.47331}
+URL: https://api.skiapi.com/v1/resort/sella
+
+Slug: serfaus-fiss-ladis
+Name: Serfaus-Fiss-Ladis
+Country: AT
+Region: N/A
+Location: {'latitude': 47.038611, 'longitude': 10.605833}
+URL: https://api.skiapi.com/v1/resort/serfaus-fiss-ladis
+
+Slug: sestriere
+Name: Sestriere
+Country: IT
+Region: 21
+Location: {'latitude': 44.95, 'longitude': 6.883333}
+URL: https://api.skiapi.com/v1/resort/sestriere
+
+Slug: shawnee-mountain
+Name: Shawnee Mountain
+Country: US
+Region: PA
+Location: {'latitude': 41.03688, 'longitude': -75.078117}
+URL: https://api.skiapi.com/v1/resort/shawnee-mountain
+
+Slug: sierra
+Name: Sierra at Tahoe
+Country: US
+Region: CA
+Location: {'latitude': 38.792763, 'longitude': -120.090012}
+URL: https://api.skiapi.com/v1/resort/sierra
+
+Slug: silver-star
+Name: Silver Star
+Country: CA
+Region: BC
+Location: {'latitude': 50.438702, 'longitude': -119.208603}
+URL: https://api.skiapi.com/v1/resort/silver-star
+
+Slug: skiwelt
+Name: Skiwelt
+Country: AT
+Region: N/A
+Location: {'latitude': 47.45, 'longitude': 12.25}
+URL: https://api.skiapi.com/v1/resort/skiwelt
+
+Slug: smuggs
+Name: Smugglers' Notch
+Country: US
+Region: VT
+Location: {'latitude': 44.589092, 'longitude': -72.78833}
+URL: https://api.skiapi.com/v1/resort/smuggs
+
+Slug: snow-summit
+Name: Snow Summit
+Country: US
+Region: MT
+Location: {'latitude': 35.37017, 'longitude': -83.15934}
+URL: https://api.skiapi.com/v1/resort/snow-summit
+
+Slug: snow-valley
+Name: Snow Valley
+Country: US
+Region: CA
+Location: {'latitude': 34.228409, 'longitude': -117.035667}
+URL: https://api.skiapi.com/v1/resort/snow-valley
+
+Slug: snowbasin
+Name: Snowbasin
+Country: US
+Region: UT
+Location: {'latitude': 41.214596, 'longitude': -111.859703}
+URL: https://api.skiapi.com/v1/resort/snowbasin
+
+Slug: snowbird
+Name: Snowbird
+Country: US
+Region: UT
+Location: {'latitude': 40.581074, 'longitude': -111.657082}
+URL: https://api.skiapi.com/v1/resort/snowbird
+
+Slug: snowmass
+Name: Snowmass
+Country: US
+Region: CO
+Location: {'latitude': 39.198471, 'longitude': -106.949158}
+URL: https://api.skiapi.com/v1/resort/snowmass
+
+Slug: snowshoe
+Name: Snowshoe Mountain
+Country: US
+Region: WV
+Location: {'latitude': 38.400002, 'longitude': -79.989998}
+URL: https://api.skiapi.com/v1/resort/snowshoe
+
+Slug: soelden
+Name: Sölden
+Country: AT
+Region: 7
+Location: {'latitude': 11.0092, 'longitude': 46.9702}
+URL: https://api.skiapi.com/v1/resort/soelden
+
+Slug: solitude
+Name: Solitude
+Country: US
+Region: UT
+Location: {'latitude': 40.625648, 'longitude': -111.600708}
+URL: https://api.skiapi.com/v1/resort/solitude
+
+Slug: st-anton-am-arlberg
+Name: St. Anton Am Arlberg
+Country: AT
+Region: 7
+Location: {'latitude': 47.127499, 'longitude': 10.264}
+URL: https://api.skiapi.com/v1/resort/st-anton-am-arlberg
+
+Slug: steamboat
+Name: Steamboat
+Country: US
+Region: CO
+Location: {'latitude': 40.458214, 'longitude': -106.805733}
+URL: https://api.skiapi.com/v1/resort/steamboat
+
+Slug: stevens
+Name: Stevens Pass
+Country: US
+Region: WA
+Location: {'latitude': 47.76046, 'longitude': -121.421242}
+URL: https://api.skiapi.com/v1/resort/stevens
+
+Slug: stowe
+Name: Stowe
+Country: US
+Region: VT
+Location: {'latitude': 44.530502, 'longitude': -72.786873}
+URL: https://api.skiapi.com/v1/resort/stowe
+
+Slug: stratton
+Name: Stratton
+Country: US
+Region: VT
+Location: {'latitude': 43.114017, 'longitude': -72.906303}
+URL: https://api.skiapi.com/v1/resort/stratton
+
+Slug: sugarbowl
+Name: Sugar Bowl
+Country: US
+Region: CA
+Location: {'latitude': 39.305447, 'longitude': -120.333206}
+URL: https://api.skiapi.com/v1/resort/sugarbowl
+
+Slug: sugarbush
+Name: Sugarbush
+Country: US
+Region: VT
+Location: {'latitude': 44.145721, 'longitude': -72.879318}
+URL: https://api.skiapi.com/v1/resort/sugarbush
+
+Slug: sugarloaf
+Name: Sugarloaf
+Country: US
+Region: ME
+Location: {'latitude': 45.06728, 'longitude': -70.315147}
+URL: https://api.skiapi.com/v1/resort/sugarloaf
+
+Slug: sun-peaks
+Name: Sun Peaks
+Country: CA
+Region: BC
+Location: {'latitude': 50.877369, 'longitude': -119.9132}
+URL: https://api.skiapi.com/v1/resort/sun-peaks
+
+Slug: sunday-river
+Name: Sunday River
+Country: US
+Region: ME
+Location: {'latitude': 44.550358, 'longitude': -70.907394}
+URL: https://api.skiapi.com/v1/resort/sunday-river
+
+Slug: sunshine-village
+Name: Sunshine Village
+Country: CA
+Region: AB
+Location: {'latitude': 51.174175, 'longitude': -115.682602}
+URL: https://api.skiapi.com/v1/resort/sunshine-village
+
+Slug: sunvalley
+Name: Sun Valley
+Country: US
+Region: ID
+Location: {'latitude': 43.709999, 'longitude': -114.339996}
+URL: https://api.skiapi.com/v1/resort/sunvalley
+
+Slug: tahoe-donner
+Name: Tahoe Donner
+Country: US
+Region: CA
+Location: {'latitude': 39.354725, 'longitude': -120.257957}
+URL: https://api.skiapi.com/v1/resort/tahoe-donner
+
+Slug: taos
+Name: Taos Ski Valley
+Country: US
+Region: NM
+Location: {'latitude': 36.596199, 'longitude': -105.450699}
+URL: https://api.skiapi.com/v1/resort/taos
+
+Slug: tarvisio
+Name: Tarvisio
+Country: IT
+Region: N/A
+Location: {'latitude': 46.5047, 'longitude': 13.58024}
+URL: https://api.skiapi.com/v1/resort/tarvisio
+
+Slug: telluride
+Name: Telluride
+Country: US
+Region: CO
+Location: {'latitude': 37.932961, 'longitude': -107.850723}
+URL: https://api.skiapi.com/v1/resort/telluride
+
+Slug: thredbo
+Name: Thredbo
+Country: AU
+Region: NSW
+Location: {'latitude': -36.504722, 'longitude': 148.305556}
+URL: https://api.skiapi.com/v1/resort/thredbo
+
+Slug: tignes
+Name: Tignes
+Country: FR
+Region: N/A
+Location: {'latitude': 45.46976, 'longitude': 6.90692}
+URL: https://api.skiapi.com/v1/resort/tignes
+
+Slug: timberline-lodge
+Name: Timberline Lodge
+Country: US
+Region: OR
+Location: {'latitude': 45.33, 'longitude': -121.71}
+URL: https://api.skiapi.com/v1/resort/timberline-lodge
+
+Slug: tremblant
+Name: Mont Tremblant
+Country: CA
+Region: QB
+Location: {'latitude': 46.213696, 'longitude': -74.584641}
+URL: https://api.skiapi.com/v1/resort/tremblant
+
+Slug: vail
+Name: Vail
+Country: US
+Region: CO
+Location: {'latitude': 39.605026, 'longitude': -106.356155}
+URL: https://api.skiapi.com/v1/resort/vail
+
+Slug: val-di-fassa
+Name: Val di Fassa / Carezza
+Country: IT
+Region: N/A
+Location: {'latitude': 46.43410083398821, 'longitude': 11.699957222982263}
+URL: https://api.skiapi.com/v1/resort/val-di-fassa
+
+Slug: val-di-fiemme
+Name: Val di Fiemme / Obereggen
+Country: IT
+Region: N/A
+Location: {'latitude': 46.38368199140035, 'longitude': 11.526664941511797}
+URL: https://api.skiapi.com/v1/resort/val-di-fiemme
+
+Slug: val-gardena
+Name: Val Gardena
+Country: IT
+Region: 32
+Location: {'latitude': 46.56, 'longitude': 11.704722}
+URL: https://api.skiapi.com/v1/resort/val-gardena
+
+Slug: valdisere
+Name: Val d'Isere
+Country: FR
+Region: N/A
+Location: {'latitude': 45.44627, 'longitude': 6.97732}
+URL: https://api.skiapi.com/v1/resort/valdisere
+
+Slug: verbier
+Name: Verbier
+Country: CH
+Region: VS
+Location: {'latitude': 46.0935, 'longitude': 7.233}
+URL: https://api.skiapi.com/v1/resort/verbier
+
+Slug: waterville
+Name: Waterville Valley
+Country: US
+Region: NH
+Location: {'latitude': 43.961613, 'longitude': -71.519989}
+URL: https://api.skiapi.com/v1/resort/waterville
+
+Slug: whistler-blackcomb
+Name: Whistler Blackcomb
+Country: CA
+Region: BC
+Location: {'latitude': 50.10693, 'longitude': -122.922073}
+URL: https://api.skiapi.com/v1/resort/whistler-blackcomb
+
+Slug: whiteface
+Name: Whiteface
+Country: US
+Region: NY
+Location: {'latitude': 44.356506, 'longitude': -73.870613}
+URL: https://api.skiapi.com/v1/resort/whiteface
+
+Slug: whitefish
+Name: Whitefish Mountain
+Country: US
+Region: N/A
+Location: {'latitude': 48.5, 'longitude': -114.34}
+URL: https://api.skiapi.com/v1/resort/whitefish
+
+Slug: wildcat
+Name: Wildcat
+Country: US
+Region: NH
+Location: {'latitude': 44.264626, 'longitude': -71.236725}
+URL: https://api.skiapi.com/v1/resort/wildcat
+
+Slug: windham
+Name: Windham Mountain
+Country: US
+Region: NY
+Location: {'latitude': 42.295597, 'longitude': -74.259941}
+URL: https://api.skiapi.com/v1/resort/windham
+
+Slug: winter-park
+Name: Winter Park
+Country: US
+Region: CO
+Location: {'latitude': 39.891563, 'longitude': -105.764267}
+URL: https://api.skiapi.com/v1/resort/winter-park
+
+Slug: winterplace
+Name: Winterplace
+Country: US
+Region: WV
+Location: {'latitude': 37.59594, 'longitude': -81.11824}
+URL: https://api.skiapi.com/v1/resort/winterplace
+
