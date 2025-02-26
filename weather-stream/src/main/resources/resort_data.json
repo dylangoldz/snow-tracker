@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Aspen Snowmass",
+      "regionId": "Rockies",
+      "office": "BOU",
+      "gridX": "30",
+      "gridY": "40"
+    },
+    {
+      "name": "Vail",
+      "regionId": "Rockies",
+      "office": "BOU",
+      "gridX": "31",
+      "gridY": "41"
+    },
+    {
+      "name": "Park City Mountain",
+      "regionId": "Wasatch",
+      "office": "SLC",
+      "gridX": "32",
+      "gridY": "42"
+    },
+    {
+      "name": "Jackson Hole",
+      "regionId": "Tetons",
+      "office": "RIW",
+      "gridX": "33",
+      "gridY": "43"
+    },
+    {
+      "name": "Killington",
+      "regionId": "Northeast",
+      "office": "BTV",
+      "gridX": "34",
+      "gridY": "44"
+    }
+]
+  

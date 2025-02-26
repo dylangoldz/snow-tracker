@@ -14,5 +14,5 @@ public class Resort {
     private String regionId;
     private String office;
     private String gridX;
-    private String girdY;
+    private String gridY;
 }

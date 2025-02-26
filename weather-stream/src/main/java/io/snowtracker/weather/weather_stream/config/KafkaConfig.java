@@ -1,4 +1,4 @@
-package io.snowtracker.weather.config;
+package io.snowtracker.weather.weather_stream.config;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;

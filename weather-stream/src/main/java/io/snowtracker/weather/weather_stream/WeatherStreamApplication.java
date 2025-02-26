@@ -15,13 +15,14 @@ public class WeatherStreamApplication {
 		
 	}
 
-	@Bean
-    public CommandLineRunner run(NOAAWeatherProxy noaaWeatherProxy) {
-        return args -> {
-            noaaWeatherProxy.getForecast("OKX", "40.6413", "40.641340.6413")
-				.doOnNext(forecastResponse -> System.out.println(forecastResponse))
-				.subscribe();
-        };
-    }
+	// @Bean
+    // public CommandLineRunner run(NOAAWeatherProxy noaaWeatherProxy) {
+    //     return args -> {
+	// 		//TODO remove proxy test
+    //         noaaWeatherProxy.getForecast("OKX", "40.6413", "40.641340.6413")
+	// 			.doOnNext(forecastResponse -> System.out.println(forecastResponse))
+	// 			.subscribe();
+    //     };
+    // }
 
 }
