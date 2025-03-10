@@ -15,7 +15,7 @@
     },
     {
       "name": "Park City Mountain",
-      "regionId": "Wasatch",
+      "regionId": "Utah",
       "office": "SLC",
       "gridX": "32",
       "gridY": "42"
@@ -33,6 +33,13 @@
       "office": "BTV",
       "gridX": "34",
       "gridY": "44"
+    },
+    {
+      "name": "Jay Peak",
+      "regionId": "Northeast",
+      "office":"BTV",
+      "gridX":"30",
+      "gridY":"28"
     }
 ]
   

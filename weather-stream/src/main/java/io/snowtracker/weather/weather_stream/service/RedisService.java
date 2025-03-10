@@ -1,5 +1,7 @@
 package io.snowtracker.weather.weather_stream.service;
 
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 
 import io.snowtracker.weather.weather_stream.models.Resort;
@@ -36,5 +38,9 @@ public class RedisService {
     // Retrieve resort
     public Resort getResort(String id) {
         return resortRepository.findById(id).orElse(null);
+    }
+
+    public List<Resort> getAllResorts() {
+        return (List<Resort>) resortRepository.findAll();
     }
 }
