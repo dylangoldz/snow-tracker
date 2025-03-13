@@ -53,6 +53,7 @@ public class ForecastResponse {
             private String qualityControl;
         }
 
+        @Data
         public static class Period {
             @NotNull
             private int number;
@@ -68,7 +69,13 @@ public class ForecastResponse {
             private String endTime;
 
             private boolean isDaytime;
-
+            
+            @NotNull
+            private int temperature;
+            
+            @NotNull
+            private String temperatureUnit;
+            
             private String temperatureTrend;
 
             private ProbabilityOfPrecipitation probabilityOfPrecipitation;

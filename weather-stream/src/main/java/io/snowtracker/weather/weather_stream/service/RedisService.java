@@ -1,6 +1,9 @@
 package io.snowtracker.weather.weather_stream.service;
 
 import java.util.List;
+import java.util.ArrayList;
+import java.util.stream.Collectors;
+import java.util.stream.StreamSupport;
 
 import org.springframework.stereotype.Service;
 
@@ -42,5 +45,21 @@ public class RedisService {
 
     public List<Resort> getAllResorts() {
         return (List<Resort>) resortRepository.findAll();
+    }
+    
+    /**
+     * Get all phone numbers of users subscribed to a specific resort
+     * @param resortId The ID of the resort
+     * @return List of phone numbers subscribed to the resort
+     */
+    public List<String> getSubscribersForResort(String resortId) {
+        // Get all users
+        Iterable<User> allUsers = userRepository.findAll();
+        
+        // Filter users who are subscribed to this resort and collect their phone numbers
+        return StreamSupport.stream(allUsers.spliterator(), false)
+            .filter(user -> user.getResorts() != null && user.getResorts().contains(resortId))
+            .map(User::getPhoneNumber)
+            .collect(Collectors.toList());
     }
 }
